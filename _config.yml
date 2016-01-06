@@ -2,26 +2,26 @@
 title: 读立写生
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: ""  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://linpelvis"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " plin"
+  email: plin.elvis.com@gmail.com
+  bio: ""
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
-douban_username:  cnfeat
-twitter_username: feat
-github_username: cnfeat
+douban_username:
+twitter_username:linpelvis
+github_username:lpelvis
 facebook_username: 
-weibo_username: cnfeat 
-zhihu_username: feat
+weibo_username:linpelvis
+zhihu_username:
 
 # Build settings  
 # use Github Flavored Markdown !important  
